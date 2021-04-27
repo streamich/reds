@@ -12,7 +12,7 @@
   "author": "TJ Holowaychuk <tj@vision-media.ca>",
   "dependencies": {
     "natural": "0.5.0",
-    "redis": "^2.7.1"
+    "redis": "^3.1.1"
   },
   "devDependencies": {
     "yargs": "^7.0.2",
